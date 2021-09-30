@@ -1,0 +1,5 @@
+# In this repository we perform basic exploratory analysis on data
+
+# We will store a real world data set from the internet in a database (Db2 on IBM Cloud), gain insights into data using SQL queries. 
+
+# And also visualize a portion of the data in the database to see what story it tells
